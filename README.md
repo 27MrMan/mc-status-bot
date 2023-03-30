@@ -1,6 +1,6 @@
 # Minecraft Server Status Bot for Discord
 
-## [DOCUMENTATION HERE 🔗](https://github.com/N000berpro/mc-status-bot/wiki)
+## [DOCUMENTATION HERE 🔗](https://nooberpro.gitbook.io/nooberpro/)
 
 ### *This Bot shows the status of a minecraft server in real time with a embed in discord and allow players to know if server is online.*
 
